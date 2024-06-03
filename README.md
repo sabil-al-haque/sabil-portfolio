@@ -2,6 +2,11 @@
 
 Welcome to my personal portfolio! This project showcases my skills, projects, and experience in web development using HTML5, CSS3, JavaScript ES6, and PHP.
 
+
+![image](https://github.com/sabil-al-haque/sabil-portfolio/assets/71989560/f9b5bdc7-ed02-4db5-a26e-c831ee3bb1c8)
+
+
+
 ## Table of Contents
 
 - [About](#about)
